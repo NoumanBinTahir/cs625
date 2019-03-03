@@ -1,7 +1,7 @@
-public class WaterSong {
-	public static void main(string [] args) {
+public class WaterSong{
+	public static void main(String [] args) {
 		int waternum = 9;
-		string word = "bottles";
+		String word = "bottles";
 		while (waternum > 0)
 		{
 			if (waternum == 1)
