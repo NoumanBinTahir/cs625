@@ -10,4 +10,4 @@ class Example2{
 	System.out.println("var2 contains  var1/2: ");
 	System.out.println(var2);	
 	}
-}
+} 
