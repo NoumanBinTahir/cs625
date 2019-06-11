@@ -8,7 +8,7 @@ class RelLogOps{
 	if(i<j)  System.out.println(" i < j ");
 	if(i<=j) System.out.println(" i =< j ");
 	if(i!=j) System.out.println(" i != j ");
-	if(i==j) System.out.println(" i == j ");
+	if(i==j) System.out.println(" i == j "); 
 	if(i>=j) System.out.println(" i >= j ");
 	if(i>j)  System.out.println(" i > j ");
 	b1 = true;
