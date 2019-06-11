@@ -7,5 +7,5 @@ class FindFact{
 			System.out.println();
 			}
 		}
-	}
+	} 
 }
