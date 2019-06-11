@@ -6,7 +6,7 @@ public class DecrFor{
 			System.out.println(x);
 			cont++;
 			System.out.println(cont);
-			
+			 
 		}
 	}
 }
