@@ -8,7 +8,7 @@ class Riders{
 		ride[4]=new int [10];
 		ride[5]=new int [2];
 		ride[6]=new int [2];
-	for(int i=0; i<5;i++ ) {
+	for(int i=0; i<5;i++ ) { 
 		for(int j=0; j<10;j++ ) {
 			ride[i][j]=(i*10)+j+1;
 		}
