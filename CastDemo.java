@@ -19,4 +19,4 @@ public class CastDemo{
 	ch = (char) b;
 	System.out.println("ch: "+ch);
 	}
-	}
+	 }
