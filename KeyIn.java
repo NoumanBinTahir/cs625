@@ -8,5 +8,5 @@ public class KeyIn{
 		System.out.println("Enter A Character");
 		ch = (char) System.in.read();
 		System.out.println("Character is :" + ch);
-	}
+	} 
 }
