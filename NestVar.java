@@ -6,6 +6,6 @@ class NestVar{
 	int count1;
 	for(count1 = 0; count1 < 2; count1++)
 	System.out.println("This Program is in error!");
-	}
+	} 
 	}
 }
