@@ -9,4 +9,4 @@ class PromDemo{
 	 b=(byte) (b*b);
 	 System.out.println("i and b:" + i + "b");
 	}
-}
+} 
