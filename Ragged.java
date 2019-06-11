@@ -9,7 +9,7 @@ class Ragged{
 		ride[5]=new int [2];
 		ride[6]=new int [2];
 	for(int i=0; i<5;i++ ) 
-		for(int j=0; j<10;j++ ) 
+		for(int j=0; j<10;j++ )  
 			ride[i][j]=i+j+10;
 
 	for (int i=5; i<7;i++) 
