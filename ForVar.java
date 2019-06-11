@@ -10,4 +10,4 @@ class ForVar{
 		System.out.println("Sum is" + sum);
 		System.out.println("Factorial is" + fact);
 	}
-}
+} 
