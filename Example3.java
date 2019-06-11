@@ -1,7 +1,7 @@
 class Example3{
 	public static void main(String args[]){
 	float var;
-	int x;
+	int x; 
 	var = 10.0;
 	x=10;
 	System.out.println("Original value of var: " + var);
