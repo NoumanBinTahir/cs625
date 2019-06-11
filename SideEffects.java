@@ -3,7 +3,7 @@
 	int i;
 
 	i=0;
-
+ 
 	if(false &(++i < 100))
 	System.out.println("this won't be displayed");
 
