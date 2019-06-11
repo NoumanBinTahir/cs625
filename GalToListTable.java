@@ -11,7 +11,7 @@ class GalToListTable{
 	if(counter == 10){
 	System.out.println();
 	counter=0;
-	}
+	} 
 	}
 	}
 }
