@@ -8,7 +8,7 @@ public class Test{
 			if(y<5){
 				x=x+1;
 				if(y<3)
-				{
+				{ 
 					x=x-1;
 				}
 			}
